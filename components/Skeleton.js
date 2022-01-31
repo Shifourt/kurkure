@@ -1,4 +1,4 @@
-export default function skeleton() {
+export default function Skeleton() {
   return (
         <div className="skeleton">
         <div className="s-banner"></div>
