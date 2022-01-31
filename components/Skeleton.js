@@ -29,6 +29,6 @@ export default function Skeleton() {
             max-width: 1000px;
         }
         `}</style>
-    </div>;
+    </div>
   )
 }
